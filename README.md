@@ -5,7 +5,7 @@ Hi :wave: I am Amir. Not a long ago, I decided to pursue my interest in tech wit
 ### [Couple Assistant](https://github.com/Amir-Aminian/couple-assistant)(In Progress):
     How I am learning ReactJS, MUI and hooks.
 
-### [Gomoku](https://github.com/Amir-Aminian/gomoku):
+### [Gomoku](https://amir-aminian.github.io/gomoku/):
     How I have learned HTML, CSS and JavaScript.
 
 **More to come!**
