@@ -2,7 +2,7 @@ Hi :wave: I am Amir. Not a long ago, I decided to pursue my interest in tech wit
 
 ## My Projects
 
-### [Schedule Assistant](https://amir-aminian.github.io/couple-assistant/) (In Progress):
+### [Schedule Assistant](https://amir-aminian.github.io/schedule-assistant/) (In Progress):
     How I am learning ReactJS, MUI and hooks.
 
 ### [Gomoku](https://amir-aminian.github.io/gomoku/):
