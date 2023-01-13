@@ -2,10 +2,10 @@ Hi :wave: I am Amir. Not a long ago, I decided to pursue my interest in tech wit
 
 ## My Projects
 
-### [Schedule Assistant](https://amir-aminian.github.io/schedule-assistant/) (In Progress):
-    How I am learning ReactJS, MUI and hooks.
+### [Schedule Assistant](https://amir-aminian.github.io/schedule-assistant/):
+    How I have learned React, Material UI, Chart.js and React Hook Form.
 
 ### [Gomoku](https://amir-aminian.github.io/gomoku/):
-    How I have learned HTML, CSS and JavaScript.
+    How I have learned JavaScript, HTML and CSS.
 
 **More to come!**
