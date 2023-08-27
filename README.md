@@ -2,9 +2,12 @@ Hi :wave: I am Amir. Not a long ago, I decided to pursue my interest in tech wit
 
 ## My Projects
 
-### [Schedule Assistant](https://amir-aminian.github.io/schedule-assistant/):
+### [Schedule Assistant(Backend)](https://schedule-assistant.link/):
+    How I have learned Node.js, Express.js, MySQL Workbench, WebSocket, JWT, Service Worker, Push and WebPush Notifications.
+    It is built upon the foundation of my previous project.
+
+### [Schedule Assistant(Frontend)](https://amir-aminian.github.io/schedule-assistant/):
     How I have learned React, Material UI, Chart.js and React Hook Form.
-    Right now, I am learning Node.js and SQL by working on the back end of this project.
 
 ### [Gomoku](https://amir-aminian.github.io/gomoku/):
     How I have learned JavaScript, HTML and CSS.
