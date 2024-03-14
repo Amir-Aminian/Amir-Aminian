@@ -2,7 +2,7 @@ Hi :wave: I am Amir. Not a long ago, I decided to pursue my interest in tech wit
 
 ## My Projects
 
-### [Schedule Assistant (Backend)](https://schedule-assistant.link/):
+### [Schedule Assistant (Backend)](https://schedule-assistant.net/):
     How I have learned Node.js, Express.js, MySQL Workbench, WebSocket, JWT, Service Worker, Push and WebPush Notifications.
     It is built upon the foundation of my previous project.
 
